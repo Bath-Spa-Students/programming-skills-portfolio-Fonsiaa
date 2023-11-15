@@ -1,5 +1,5 @@
-prompt = "May I know your age?"
-prompt += "\nor enter 'quit'. "
+msg = "May I know your age?"
+msg += "\nor enter 'quit'. "
 
 #using booleans
 while True:
@@ -7,7 +7,6 @@ while True:
     if age == 'quit':
         break #stops the loop
     age = int(age)
-    
     if age < 3:
         print("  Your ticket is free!")
     elif age < 13:
