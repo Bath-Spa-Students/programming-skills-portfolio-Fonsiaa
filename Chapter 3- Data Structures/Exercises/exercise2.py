@@ -1,6 +1,5 @@
-
-message = "Thank for all the moments we have together, and I forever remember you"
-#list of friend's name
+message = "Thanks for all the moments we have together, and I will forever remember you."
+#using string of friend's name
 list1 = "Precy"
 list2 = "Eli"
 list3 = "Zoro"
