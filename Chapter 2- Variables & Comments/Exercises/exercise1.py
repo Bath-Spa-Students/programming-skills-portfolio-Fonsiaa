@@ -2,7 +2,6 @@
 message = "Good day, World!"
 
 # Print the message
-print(message)
 
 # Change the value of the variable to a new message
 message = "Til then, world!"
