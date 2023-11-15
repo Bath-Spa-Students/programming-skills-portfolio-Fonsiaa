@@ -1,9 +1,12 @@
-#alien_colour
-alien_colour = "green"
-
+#value colour is red
+alien_colour = "red"
+#using the if-elif-else statement
 if alien_colour == "green":
-#pts is points
+#encodes a print statement
     print ("Because of the you just earned 5pts")
+elif alien_colour == "yellow":
+#encodes a print statement
+    print ("Because of the you just earned 10pts")
 else:
-#pts is point
-    print("Because of the you just earned 10pts")
+#encodes a print statement
+    print("Because of the you just earned 15pts")
