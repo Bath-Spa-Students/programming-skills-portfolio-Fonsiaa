@@ -7,7 +7,7 @@ pet = {'gender' : 'female',
     'owner': 'Geli',
     'age': '2 years old',
     'eats': 'tuna',}
-pets.append(pet)
+pets.append(pet) 
 
 pet = {'gender' : 'male',
     'Amphibians': 'toad',
