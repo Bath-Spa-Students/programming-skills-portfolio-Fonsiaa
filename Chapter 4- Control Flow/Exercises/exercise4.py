@@ -1,6 +1,5 @@
 #age of the person = 49
 age = 49
-
 if age < 2:
     print("The person is a baby")
 elif age < 4:
