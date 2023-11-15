@@ -8,4 +8,4 @@ elif alien_colour == "yellow":
     print ("Because of the you just earned 10pts")
 else:
 #pts is point
-    print("Because of the you just earned 15pts")
+    print("Because of that you just happened to earned 15pts")
