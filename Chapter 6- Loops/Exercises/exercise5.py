@@ -1,5 +1,4 @@
-sandwich_orders = ['pastrami', 'Cucumber tea', 'Grilled cheese', 
-                'pastrami','Mayonnaise tuna', 'pastrami']
+sandwich_orders = ['pastrami', 'Cucumber tea', 'Grilled cheese', 'pastrami','Mayonnaise tuna', 'pastrami']
 finished_sandwiches = []
 
 print("I'm sorry, we're all out of pastrami today.")
