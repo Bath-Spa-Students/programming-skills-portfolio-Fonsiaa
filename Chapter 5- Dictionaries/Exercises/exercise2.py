@@ -1,6 +1,6 @@
 #key : values
-#the termology I've leanred
-dict = {'mutables' : 'values are changable',
+#the terminology I've learned
+dict = {'mutables' : 'values are changeable',
         'positive_indexing' : 'the first number in the list starts with zero', 
         'negative_indexing' : 'starts from the right and starts with negative one',
         'repetition_list' : 'repeats the list the',
